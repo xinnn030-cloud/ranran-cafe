@@ -1,6 +1,0 @@
-[index.html](https://github.com/user-attachments/files/28925303/index.html)
-[menu.html](https://github.com/user-attachments/files/28925304/menu.html)
-[style.css](https://github.com/user-attachments/files/28925308/style.css)
-[studio.html](https://github.com/user-attachments/files/28925307/studio.html)
-[staff.html](https://github.com/user-attachments/files/28925306/staff.html)
-[rules.html](https://github.com/user-attachments/files/28925305/rules.html)
